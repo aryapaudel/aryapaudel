@@ -52,6 +52,3 @@ My current goals include:
   <img src="https://github-readme-stats.vercel.app/api?username=aryapaudel&show_icons=true&locale=en" alt="aryapaudel" width="400" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryapaudel&" alt="aryapaudel" width="400" height="200"/>
-</p>
