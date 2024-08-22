@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate coder with a keen interest in web development and quality assurance. My journey in the tech world started with the basics, and now I specialize in creating efficient and user-friendly web applications. Whether it's front-end design or back-end logic, I enjoy every part of the development process.
+I'm a passionate programmer with a keen interest in web development and quality assurance. My journey in the tech world started with the basics, and now I specialize in creating efficient and user-friendly web applications. Whether it's front-end design or back-end logic, I enjoy every part of the development process.
 
 ## 🔧 Technologies & Tools
 
