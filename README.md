@@ -42,7 +42,7 @@ My current goals include:
 - Enhancing my expertise in Quality Assurance and Testing.
 - Contributing to open-source projects.
 
-#GitHub-Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryapaudel&show_icons=true&locale=en&layout=compact" alt="aryapaudel" width="400" height="200"/>
